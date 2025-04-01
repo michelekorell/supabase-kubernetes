@@ -8,7 +8,7 @@ entries:
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.0.3.tgz
+    - https://michelekorell.github.io/supabase-kubernetes/build/supabase-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     created: "2023-02-10T15:04:18.113431-05:00"
@@ -17,7 +17,7 @@ entries:
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.0.2.tgz
+    - https://michelekorell.github.io/supabase-kubernetes/build/supabase-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     created: "2023-02-10T15:04:18.111993-05:00"
@@ -26,6 +26,6 @@ entries:
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.0.1.tgz
+    - https://michelekorell.github.io/supabase-kubernetes/build/supabase-0.0.1.tgz
     version: 0.0.1
 generated: "2023-02-10T15:04:18.110189-05:00"
